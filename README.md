@@ -1,19 +1,22 @@
 
+
+![Chris Dietrich](https://user-images.githubusercontent.com/70533870/132566809-f6f4f632-0b85-411f-a63d-482dffb16f72.png)
+
+
+# Hi there, I'm Chris 👋
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-[![Chris Dietrich's github stats](https://github-readme-stats.vercel.app/api?username=chrisdietrich405)](https://github.com/anuraghazra/github-readme-stats)
-	![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdietrich405&layout=compact)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 
-### Hi there 👋
 
-<!--
-**ChrisDietrich405/ChrisDietrich405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdietrich405&layout=compact)
 
-- 🔭 I’m currently working on ...
+
+
+- 🔭 I’m currently working on a project for a non profit. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

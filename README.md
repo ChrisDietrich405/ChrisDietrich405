@@ -14,13 +14,12 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-</br>
-<br>
-### About Me 🚀
+**</br></br>**
+# About Me 🚀
 
--💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**
--👯 I’m looking to collaborate with companies and other developers **</br></br>**
--💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev </br></br>
+-💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. 
+-👯 I’m looking to collaborate with companies and other developers 
+-💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev 
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

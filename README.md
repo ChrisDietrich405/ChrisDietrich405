@@ -16,6 +16,7 @@
 </a>
 
 <br/>
+<br/>
 ## About Me 🚀
 
 -💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company.<br/> 

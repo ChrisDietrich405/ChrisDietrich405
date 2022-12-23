@@ -9,8 +9,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  
-<code><img height="20"
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sebastian-gomez.com%2Fpost%2Fintroduccion-a-nextjs&psig=AOvVaw2bc98tBwdQ8GqlKypKSeZ-&ust=1671891605295000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNijk9v3j_wCFQAAAAAdAAAAABAE"></code>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>

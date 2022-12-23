@@ -12,7 +12,8 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
-###About me
+
+### About Me 🚀
 
 💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**
 💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev </br></br>

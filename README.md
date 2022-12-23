@@ -14,8 +14,8 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-
-<br/>
+</br>
+<br>
 ### About Me 🚀
 
 -💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**

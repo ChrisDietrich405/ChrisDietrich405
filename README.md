@@ -11,8 +11,8 @@
 <a href="https://mail.google.com/mail/u/1/#inbox?compose=new">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
-#About me
+<br>
+###About me
 
 💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**
 💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev </br></br>

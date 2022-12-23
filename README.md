@@ -12,11 +12,15 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=14106083258">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 
 ### About Me 🚀
 
-💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**
-💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev </br></br>
+-💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**
+-👯 I’m looking to collaborate with other content creators
+-💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev </br></br>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

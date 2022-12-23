@@ -12,6 +12,11 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+#About me
+
+💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**
+💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev </br></br>
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

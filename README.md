@@ -18,6 +18,8 @@
 <br/>
 <br/>
 ## About Me 🚀
+<br/>
+<br/>
 
 -💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company.<br/> 
 -👯 I’m looking to collaborate with companies and other developers <br/>

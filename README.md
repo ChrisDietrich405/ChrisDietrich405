@@ -15,6 +15,7 @@
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
+<br/>
 ### About Me 🚀
 
 -💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company. **</br></br>**

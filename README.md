@@ -15,11 +15,11 @@
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
-
-# About Me 🚀
+<br/>
+## About Me 🚀
 
 -💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company.<br/> 
--👯 I’m looking to collaborate with companies and other developers 
+-👯 I’m looking to collaborate with companies and other developers <br/>
 -💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev 
 
 

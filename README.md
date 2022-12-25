@@ -22,7 +22,7 @@
 
 -💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company.<br/> 
 -👯 I’m looking to collaborate with companies and other developers <br/>
--💬 Feel free to contact me than welcome to contact me if you need any help or if you just want to talk about web dev 
+-💬 Feel free to contact me if you need any help or if you just want to talk about web dev 
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

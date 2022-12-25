@@ -51,7 +51,7 @@
 
 
 
-- 🔭 I’m currently working on a project for a non profit. 
-- 🌱 I’m currently learning Redux
-- 📫 How to reach me: chrisdietrich3666@gmail.com
+- 🔭 I’m currently switching my son's website from React to Next. 
+- 🌱 I’m currently learning Material UI, and unit testing
+- 📫 How to reach me: chrisdietrichdev@gmail.com
 

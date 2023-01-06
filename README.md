@@ -37,10 +37,9 @@
 </code>
 <code><img height="30" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" />
 </code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 </code>
-<code><img height="30" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" />
-</code>
+
 
 
 

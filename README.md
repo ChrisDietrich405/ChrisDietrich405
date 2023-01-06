@@ -30,17 +30,27 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"></code>
+<code><img height="20" src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://mui.com/static/logo.png"></code>
+
+</div>
+<code><img height="20" src="https://w7.pngwing.com/pngs/149/263/png-transparent-microsoft-visual-studio-express-computer-icons-microsoft-visual-c-visual-studio-code-studio-angle-studio-rectangle.png" /></code>
+<code><img height="20" src="https://image.pngaaa.com/571/124571-middle.png" /></code>
+<code><img height="20" width="22"
+src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" /></code>
+<code><img height="20" 
+src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </code>
-<code><img height="30" display="inline"
-src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" />
-</code>
-<code><img height="25" display="inline"
-src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-</code>
+</div>
+<br>
+
+
+
+
 
 
 

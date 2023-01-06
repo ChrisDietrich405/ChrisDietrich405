@@ -29,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fnext-js-icon-512x512-zuauazrk.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F11295%2Fnext-js&tbnid=c9mZKH8O855nYM&vet=12ahUKEwj0w-3FzbP8AhUzeDABHf0fBg0QMygAegUIARC8AQ..i&docid=3LREy_izk5fyWM&w=512&h=512&q=next%20js&hl=en&ved=2ahUKEwj0w-3FzbP8AhUzeDABHf0fBg0QMygAegUIARC8AQ"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>

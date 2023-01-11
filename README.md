@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin-logo_49408&psig=AOvVaw2r0xnHI9CD7vv_6VpKXxck&ust=1673550717437000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPD77bGcwPwCFQAAAAAdAAAAABAK" />
 </picture>
 <a href="https://www.linkedin.com/in/chris-dietrich-frontend-developer/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

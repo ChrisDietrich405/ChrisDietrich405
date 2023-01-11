@@ -7,7 +7,7 @@
 
 
 <a href="https://www.linkedin.com/in/chris-dietrich-frontend-developer/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/49/49408.png" />
+  <img align="left" alt="Linkedin" width="22px" src="https://thumbs.dreamstime.com/b/linkedin-icon-logo-beautiful-meticulously-designed-223937618.jpg" />
 </a>
 
 <a href="mailto:chrisdietrichdev@gmail.com">

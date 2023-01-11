@@ -13,7 +13,8 @@
 <a href="https://www.linkedin.com/in/chris-dietrich-frontend-developer/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=new">
+
+<a href="mailto:chrisdietrichdev@gmail.com">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">

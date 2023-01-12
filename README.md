@@ -14,7 +14,7 @@
   <img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/74/fd/dc/74fddc59eefc5018c34914ecc934654a.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
-  <img align="left" alt="Whatsapp" width="32px" height="30px" src="https://i.pinimg.com/736x/ff/b0/6d/ffb06d544f15b562c447025288be25fc.jpg" />
+  <img align="left" alt="Whatsapp" width="32px" src="https://i.pinimg.com/originals/1c/5e/19/1c5e19e930fab899ec451d750c7f559e.jpg" />
 </a>
 
 <br/>

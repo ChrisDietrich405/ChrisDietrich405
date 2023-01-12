@@ -7,14 +7,14 @@
 
 
 <a href="https://www.linkedin.com/in/chris-dietrich-frontend-developer/">
-  <img align="left" alt="Linkedin" width="22px" src="https://thumbs.dreamstime.com/b/linkedin-icon-logo-beautiful-meticulously-designed-223937618.jpg" />
+  <img align="left" alt="Linkedin" width="22px" marginRight="10px" src="https://thumbs.dreamstime.com/b/linkedin-icon-logo-beautiful-meticulously-designed-223937618.jpg" />
 </a>
 
 <a href="mailto:chrisdietrichdev@gmail.com">
   <img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/74/fd/dc/74fddc59eefc5018c34914ecc934654a.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
-  <img align="left" alt="Whatsapp" width="32px" src="https://i.pinimg.com/originals/1c/5e/19/1c5e19e930fab899ec451d750c7f559e.jpg" />
+  <img align="left" alt="Whatsapp" width="32px" height="32px" src="https://i.pinimg.com/originals/1c/5e/19/1c5e19e930fab899ec451d750c7f559e.jpg" />
 </a>
 
 <br/>

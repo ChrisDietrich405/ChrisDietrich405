@@ -11,7 +11,7 @@
 </a>
 
 <a href="mailto:chrisdietrichdev@gmail.com">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/50/06/dc/5006dc7319d99a139727482e4d75b1f2.jpg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />

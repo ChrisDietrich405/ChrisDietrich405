@@ -45,7 +45,7 @@ src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vert
 <code><img height="20" 
 src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </code>
 </div>
 <br>

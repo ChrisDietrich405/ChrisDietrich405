@@ -6,7 +6,7 @@
 # Hi there, I'm Chris. Welcome to my Github page! 👋
 
 <a href="https://www.linkedin.com/in/chris-dietrich-frontend-developer/">
-  <img align="left" alt="Linkedin" width="22px" marginRight="10px" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" />
+  <img align="left" alt="Linkedin" width="22px" height="30px" marginRight="10px" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" />
 </a>
 
 <a href="mailto:chrisdietrichdev@gmail.com">

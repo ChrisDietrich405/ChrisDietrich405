@@ -10,7 +10,7 @@
 </a>
 
 <a href="mailto:chrisdietrichdev@gmail.com">
-  <img align="left" alt="" width="22px" padding-top="29px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
+  <img align="left" alt="" width="22px" height="30px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
   <img align="left" alt="Whatsapp" width="26px" style="padding-bottom: 30px;" src="https://img.icons8.com/3d-fluency/48/null/whatsapp.png" />
@@ -62,10 +62,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></cod
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdietrich405&layout=compact)
 
 
 

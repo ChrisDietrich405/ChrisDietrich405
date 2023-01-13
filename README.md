@@ -13,7 +13,7 @@
   <img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
-  <img align="left" alt="Whatsapp" width="32px" height="32px" src="https://icons8.com/icon/DUEq8l5qTqBE/whatsapp" />
+  <img align="left" alt="Whatsapp" width="26px" style="padding-bottom: 30px;" src="https://img.icons8.com/3d-fluency/48/null/whatsapp.png" />
 </a>
 
 <br/>

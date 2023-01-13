@@ -62,8 +62,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></cod
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 

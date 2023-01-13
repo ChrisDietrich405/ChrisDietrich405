@@ -5,7 +5,6 @@
 
 # Hi there, I'm Chris. Welcome to my Github page! 👋
 
-
 <a href="https://www.linkedin.com/in/chris-dietrich-frontend-developer/">
   <img align="left" alt="Linkedin" width="22px" marginRight="10px" src="https://thumbs.dreamstime.com/b/linkedin-icon-logo-beautiful-meticulously-designed-223937618.jpg" />
 </a>
@@ -27,6 +26,12 @@
 -💬 Feel free to contact me if you need any help or if you just want to talk about web dev.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+
+
+
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

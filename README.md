@@ -17,6 +17,8 @@
 </a>
 
 &nbsp;
+&nbsp;
+&nbsp;
 <a target="_blank" href="https://tinyurl.com/chrisdietrichresume">
   <img align="left" alt="Resume" width="28px" src="https://bonuscursos.com/wp-content/uploads/2019/03/resume-icon-png-resume-flat-icon-png-resume-icon-png-free-curriculum-vitae-icon-png-resume-button-icon-png-resume-icon-png-resume-icon-free-download-.png" />
 </a>

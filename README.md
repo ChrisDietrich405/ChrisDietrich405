@@ -16,9 +16,8 @@
   <img align="left" alt="Whatsapp" width="26px" style="padding-bottom: 30px;" src="https://img.icons8.com/3d-fluency/48/null/whatsapp.png" />
 </a>
 
-&nbsp;
-&nbsp;
-&nbsp;
+
+
 <a target="_blank" href="https://tinyurl.com/chrisdietrichresume">
   <img align="left" alt="Resume" width="28px" src="https://bonuscursos.com/wp-content/uploads/2019/03/resume-icon-png-resume-flat-icon-png-resume-icon-png-free-curriculum-vitae-icon-png-resume-button-icon-png-resume-icon-png-resume-icon-free-download-.png" />
 </a>
@@ -37,7 +36,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/300/000000/nextjs.png"></code>
+<code><img height="20" src="https://i.ytimg.com/an/cxm6FNyKzwA/3903739474801779860_mq.jpg?v=62a9dfef"></code>
 <code><img height="20" src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>

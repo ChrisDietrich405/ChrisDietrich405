@@ -54,22 +54,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></cod
 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></code>
 <code><img height="20"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
-<code>
 <code><img height="20"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code>
 <code><img height="20"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code>
 <code><img height="20"
 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" /></code>
-<code>
+
 </div>
 <br>
 
 
 
-https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png
 
 
 

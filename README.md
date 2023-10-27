@@ -12,7 +12,7 @@
 <a href="mailto:chrisdietrichdev@gmail.com">
   <img align="left" alt="" width="22px" height="30px" style="padding-right: 44px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=14436083258">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=12408144208">
   <img align="left" alt="Whatsapp" width="26px" style="padding-bottom: 30px;" src="https://img.icons8.com/3d-fluency/48/null/whatsapp.png" />
 </a>
 

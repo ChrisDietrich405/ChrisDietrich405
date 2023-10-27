@@ -24,8 +24,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 ## About Me 🚀
 
@@ -65,11 +63,10 @@ src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_1
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 </div>
-<br>
+
 
 
 

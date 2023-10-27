@@ -27,8 +27,8 @@
 
 ## About Me 🚀
 
--💻 Currently I am a freelance front end developer interested in sharing my knowledge full time with an interested company.<br/> 
--👯 I’m looking to collaborate with companies and other developers <br/>
+-💻 Currently I am a freelance full stack developer interested in sharing my knowledge full time with an interested company.<br/> 
+-👯 I’m looking to collaborate with companies and other developers. <br/>
 -💬 Feel free to contact me if you need any help or if you just want to talk about web dev.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -52,6 +52,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></cod
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </code>
+<code><img height="20" width="22"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
+<code>
 </div>
 <br>
 

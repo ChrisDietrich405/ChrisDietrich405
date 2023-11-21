@@ -2,7 +2,7 @@
 
 ![Chris Dietrich](https://github.com/ChrisDietrich405/ChrisDietrich405/assets/70533870/f79fed9f-85f1-4340-be88-b9bc558fddfb)
 
-<! --![Chris Dietrich](https://user-images.githubusercontent.com/70533870/132566809-f6f4f632-0b85-411f-a63d-482dffb16f72.png)![hero-image (2)](https://github.com/ChrisDietrich405/ChrisDietrich405/assets/70533870/f79fed9f-85f1-4340-be88-b9bc558fddfb) -->
+
 
 # Hi there, I'm Chris. Welcome to my Github page! 👋
 

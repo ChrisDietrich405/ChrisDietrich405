@@ -1,8 +1,9 @@
 
 
-![Chris Dietrich](https://github.com/ChrisDietrich405/ChrisDietrich405/assets/70533870/f79fed9f-85f1-4340-be88-b9bc558fddfb)
 
 
+
+![hero-image (1)](https://github.com/ChrisDietrich405/ChrisDietrich405/assets/70533870/ad667783-57f1-4ef6-b2fc-f0dd00e5858c)
 
 # Hi there, I'm Chris. Welcome to my Github page! 👋
 

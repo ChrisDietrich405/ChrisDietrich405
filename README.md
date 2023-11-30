@@ -84,7 +84,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-- 🔭 I’m currently switching my son's website from React to Next. 
+- 🔭 I’m currently building an ecommerce site for an artist using MongoDB and NextJS. 
 - 🌱 I’m currently learning Material UI, and unit testing
 - 📫 How to reach me: chrisdietrichdev@gmail.com
 

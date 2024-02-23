@@ -20,7 +20,7 @@
 
 
 
-<a target="_blank" href="https://drive.google.com/file/d/1wlqqpc4nIX9pboOP2fauAbEoVZSyRBgv/view">
+<a target="_blank" href="https://drive.google.com/file/d/1PIB5s1X9stAwB5GSnpLyOMdFELjojkLo/view?usp=sharing">
   <img align="left" alt="Resume" width="28px" src="https://bonuscursos.com/wp-content/uploads/2019/03/resume-icon-png-resume-flat-icon-png-resume-icon-png-free-curriculum-vitae-icon-png-resume-button-icon-png-resume-icon-png-resume-icon-free-download-.png" />
 </a>
 

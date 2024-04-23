@@ -29,7 +29,7 @@
 
 ## About Me 🚀
 
--💻 Currently I am a freelance full stack developer interested in sharing my knowledge full time with an interested company.<br/> 
+-💻 Currently I am a full stack developer interested in sharing my knowledge full time with an interested company.<br/> 
 -👯 I’m looking to collaborate with companies and other developers. <br/>
 -💬 Feel free to contact me if you need any help or if you just want to talk about web dev.
 
